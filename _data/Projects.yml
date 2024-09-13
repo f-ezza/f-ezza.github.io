@@ -1,21 +1,27 @@
 subject: Projects
-listing-order: 3
+listing-order: 2
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "ChatPPT ([https://chat.opena1.com/](https://chat.openai.com/))"
+  - title: "Labrats ([https://f-ezza.itch.io/lab-rats](https://f-ezza.itch.io/lab-rats))"
     description: 
-      - Chatbot developed based on a large language model
-      - Designed Generative algorithm to generate novel human-like content
-      - "Technology Used: Rust, Typescript, Python, Ruby"
-    image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
-  - title: "AW5-cli ([https://github.com/aw5/aw5-cli](https://github.com/aws/aws-cli))"
+      - Password - axel40three
+      - Collabrative group project curated over the course of 12 weeks with 3 members
+      - Graded at High Distinction
+      - "Technology Used: C#, Reaper, Audacity, Unity, Blender, Photoshop"
+    image: "![](https://img.itch.zone/aW1nLzE3MjQ4ODQwLnBuZw==/315x250%23c/ddDh3i.png)"
+  - title: "Dungeon Escape ([https://github.com/f-ezza/24T1_GAD170_Project_1](https://github.com/f-ezza/24T1_GAD170_Project_1))"
     description: 
-      - Universal Command Line Interface for Amazone Web Services
-      - Developed a scheme to facilitate users’ authentication without having to remember their credentials
-      - "Technology Used: Typescript, Python, Go"
-    image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
-  - title: "PiTorch ([https://pitorch.org/](https://pytorch.org/))" 
+      - A simplistic game where the user must navigate a dungeon like area fighting enemines
+      - The first coding project to be submitted for Academic Rigor
+      - Graded at Distinction
+      - "Technology Used: C#, DeepAI (For Image creation), Unity, Photoshop "
+  - title: "Crewmate Investigator ([https://github.com/f-ezza/24T1_GAD170_P2/tree/main](https://github.com/f-ezza/24T1_GAD170_P2/tree/main))" 
     description: 
-      - Machine learning library for applications such as computer vision and natural language processing
-      - "Technology Used: Python, Cuda, Objective-C++"
-    image: "![](https://i.ibb.co/R9150c4/12421323.webp)"
+      - A simplistic game showcasing the usage of arrays and lists to store data, players are set in the role of an investigator having to determin who is an imposter and who isn't
+      - Graded at Distinction
+      - "Technology Used: C#, Reaper, Audacity, Unity, Blender, Photoshop"
+  - title: "Knights Conquest ([https://gitlab.com/gad1765305421/gad176_project_1](https://gitlab.com/gad1765305421/gad176_project_1))"
+    description:
+      - Built to demonstrate Polymorphism, it aimed to showcase diverse and modular application of classes and utilising object oriented programming to its fullest to create diverse enemy types.
+      - Graded at High Distinction
+      - "Technology Used: C#, Reaper, Audacity, Unity, Piskel, Photoshop"
