@@ -8,13 +8,13 @@ job: "Bachelor of Games Development"
 phone_number: 0403958680
 address: Brisbane, Australia
 email: fezzaoffical@gmail.com
-linkedin_username: linkedin
+linkedin_username:
 github_username: f-ezza
 instagram_username: _fezza___
 twitter_username: FezzaU69558
 facebook_username: 
 youtube_username: fezza2283
-blog_url: homepage-url
+blog_url:
 
 # If your repo name follows the format "<user-name>.github.io", then leave the below blank.
 # Otherwise, set its value as "/<repo-name>". ex) baseurl: /resume
