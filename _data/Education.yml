@@ -4,8 +4,21 @@ icon: "/assets/img/graduation-cap.svg"
 contents:
   - title: SAE University College, BA in Games Development
     description:
-      - Design of a method to build a probabilistic generative model
-      - Development of model calibration algorithm for cross-domain few-shot learning
+      - Trimester 1
+        - Introduction to Scripting (Basic interaction with programming)
+        - The Culture about games (Why and what games are)
+        - Asset Production (Creation of 2D and 3D assets)
+        - Game Mechanics (How to make a game)
+      - Trimester 2
+        - Advanced programming techniques (Building on the basics)
+        - Building a game (Starting from scratch and completing it (see labrats))
+        - Entrepreneurship (Where I want to go as a person)
+      - Trimester 3 (Ongoing)
+        - Media Studies (The impact of creative industries on society)
+        - Rapid Prototyping (Find out what works and what doesn't)
+        - Designing Game Systems (Crafting a concept and executing it fully)
+        - World Building for Virtual Enviroments (How to make a world feel alive)
+
     grade: "**GPA**: `5.63`"
     date: Feb. 2024
   - title: QCE, St Laurences College
